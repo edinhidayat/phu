@@ -1,0 +1,85 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.page-break {
+    page-break-after: always;
+}
+
+section#hal1 {
+    padding: 1cm 1.7cm 0.8cm 1.7cm;
+    font-size: 12pt;
+}
+
+section#hal2 {
+    padding: 0.8cm 1.7cm 0.8cm 1.7cm;
+    font-size: 11pt;
+}
+section#hal2 div.subjudul1 {
+    position: relative;
+    width: 195px;
+    margin-top: -5px;
+}
+section#hal2 div.subjudul {
+    width: 195px;
+    margin-top: 5px;
+}
+section#hal2 div.tandapetik1 {
+    position: absolute;
+    top: 135px;
+    left: 260px;
+    width: 5px;
+    margin: 0;
+    padding: 0;
+}
+section#hal2 div.tandapetik {
+    width: 5px;
+    margin-top: 5px;
+}
+section#hal2 div.kotak1 {
+    position: absolute;
+    top: 140px;
+    left: 275px;
+    width: 490px;
+    margin: 0;
+    padding: 0;
+}
+section#hal2 div.baris {
+    display: flex;
+    justify-content: space-between;
+}
+section#hal2 div.kotak {
+    margin-top: 5px;
+    margin-left: -5px;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 20px;
+}
+section#hal2 div.teks-baris {
+    margin-top: 5px;
+    margin-left: -5px;
+    display: inline-block;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+}
+
+section#hal3 {
+    padding: 1cm 1.7cm 0.8cm 1.7cm;
+    font-size: 12pt;
+}
+
+section#hal4 {
+    padding: 1cm 1.7cm 0.8cm 1.7cm;
+    font-size: 12pt;
+}
+
+section#hal5 {
+    padding: 1cm 1.7cm 0.8cm 1.7cm;
+    font-size: 12pt;
+}

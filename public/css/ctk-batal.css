@@ -1,0 +1,21 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.page-break {
+    page-break-after: always;
+}
+section#hal1 {
+    padding: 1cm 1.7cm 0.8cm 1.7cm;
+    font-size: 12pt;
+}
+section#hal2 {
+    padding: 1cm 1.7cm 0.8cm 1.7cm;
+    font-size: 12pt;
+}
+section#hal3 {
+    padding: 1cm 1.7cm 0.8cm 1.7cm;
+    font-size: 12pt;
+}
